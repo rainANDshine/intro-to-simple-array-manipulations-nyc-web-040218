@@ -1,4 +1,4 @@
-def using_push(array, element)
-  array.push(element)
+def using_push(array, string)
+  array.push(string)
 end
 
